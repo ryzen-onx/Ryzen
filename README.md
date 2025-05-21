@@ -1,5 +1,5 @@
 # Ryzen
-<h1 align="center">Hi, I'm Ritwik Raj (aka rasen) 👋</h1>
+<h1 align="center">Hi, I'm Ritwik Raj (aka ryzen) 👋</h1>
 
 <p align="center">
   <b>Linux Script Developer | Cybersecurity Learner | Curious Soul</b><br>
