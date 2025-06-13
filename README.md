@@ -29,9 +29,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Age Calculator](https://github.com/rasen/age-calculator) | A simple Linux terminal tool to calculate exact age from a birth date |
-| [Steganography Script](https://github.com/rasen/steganography-tool) | Hide and extract messages inside images using Python and Linux tools |
-| [GPT-3 Chatbot](https://github.com/rasen/gpt3-chatbot) | A minimal chatbot powered by GPT-3 and Python, works from terminal |
+| [Age Calculator](https://github.com/ryzen-onx/age-calculator) | A simple Linux terminal tool to calculate exact age from a birth date |
+| [Steganography Script](https://github.com/ryzen-onx/steganography-tool) | Hide and extract messages inside images using Python and Linux tools |
+| [GPT-3 Chatbot](https://github.com/ryzen-onx/gpt3-chatbot) | A minimal chatbot powered by GPT-3 and Python, works from terminal |
 
 > *(More scripts and tools coming soon...)*
 
